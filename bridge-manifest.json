@@ -1,0 +1,8 @@
+{
+  "README.md": "7bfed8dcc41fad4bcaacc943b0fcbd65024e2efe8129248dc5beab85f68a1454",
+  "SKILL.md": "af0aa2d195b4a82926e31bb7a35fb57e4114110f6e05735b3bee847ef2fd45ba",
+  "references/host-adapter.md": "30230ccd9ecc91778e7e93540ac21c3015e646f836793b77a85c7a5112a54d87",
+  "references/model-config.example.json": "a6eabeb53dbba8443a0776ba742b608e5ec080b03076a7341ab03b7aa87ca98b",
+  "scripts/runtime.py": "9179c250d164861c64abd3220a53bcc1bacf97291508d148e5fc02f76e798079",
+  "source-manifest.json": "266ab994b2755c37f586e2bfa4b053ddef17596254a8eadfc52056abfb80305b"
+}
